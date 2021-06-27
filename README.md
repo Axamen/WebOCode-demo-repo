@@ -15,7 +15,7 @@ Products - Designed with html, css and js. This the page where you can find the 
 
 Customize - Designed with html, css and Three.js package. This is where the user customizes their loved design and order it.
 
-AR - Designed with the <model-viewer> package. This page allows user to view the products in 3D.
+AR - Designed with the model-viewer package. This page allows user to view the products in 3D.
 
 Gallery - Designed with html and css. This is the page where user views the galleries of the products and starts buying it.
 
