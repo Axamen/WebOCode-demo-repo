@@ -26,3 +26,5 @@ Contact - #
 The website hosted using the github pages at - 
 To run locally download all the files and compile it.
 
+  
+  *For development purpose only. All visuals that are used belongs to their respective owners* 
