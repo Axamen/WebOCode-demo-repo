@@ -5,7 +5,7 @@ Team members - Santosh S, Aadarsh K, and Vaishnavi Nigam.
 
 Theme - House Appliances and Furniture 
 
-Website - Shop-ON - 
+Website - Shop-ON - https://axamen.github.io/WebOCode-demo-repo/
 
 Menus - Home, Products, Gallery, Customize, Log in and contact.
 
@@ -23,7 +23,8 @@ Log in - Designed with html and css. This page allows user to load the datas wit
 
 Contact - #
 
-The website hosted using the github pages at - 
+The website hosted using the github pages at - https://axamen.github.io/WebOCode-demo-repo/
+
 To run locally download all the files and compile it.
 
   
