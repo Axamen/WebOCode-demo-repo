@@ -1,7 +1,10 @@
 # WebOCode-demo-repo
 Team - Gamma
+
 Team members - Santosh S, Aadarsh K, and Vaishnavi Nigam.
+
 Theme - House Appliances and Furniture 
+
 Website - Shop-ON - 
 
 Menus - Home, Products, Gallery, Customize, Log in and contact.
