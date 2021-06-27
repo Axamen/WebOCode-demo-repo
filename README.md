@@ -27,5 +27,13 @@ The website hosted using the github pages at - https://axamen.github.io/WebOCode
 
 To run locally download all the files and compile it.
 
+References:
+
+- https://modelviewer.dev/examples/augmentedreality/
+- https://threejs.org/examples/
+- Codepens, w3schools and css.
+  
+  
   
   *For development purpose only. All visuals that are used belongs to their respective owners* 
+
