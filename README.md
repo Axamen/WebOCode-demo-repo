@@ -1,11 +1,11 @@
 # WebOCode-demo-repo
 Team - Gamma
 
-Team members - Santosh S, Aadarsh K, and Vaishnavi Nigam.
+Team members - Santosh S and Aadarsh K
 
 Theme - House Appliances and Furniture 
 
-Website - Shop-ON - https://axamen.github.io/WebOCode-demo-repo/
+Website - Shop-ON - https://Santoholic.github.io/WebOCode-demo-repo/
 
 Menus - Home, Products, Gallery, Customize, Log in and contact.
 
